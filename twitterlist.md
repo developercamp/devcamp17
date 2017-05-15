@@ -4,4 +4,5 @@
 * https://twitter.com/dot_ute (Ute Muendlein)
 * https://twitter.com/mayflowerphp (Mayflower)
 * https://twitter.com/robsblog (Robert Lippert)
+* https://twitter.com/divb (Tom Wiesseckel)
 
