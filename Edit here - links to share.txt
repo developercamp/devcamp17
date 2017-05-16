@@ -5,3 +5,6 @@ SESSION TITLE
 - Link to documentation & other assets
 
 ...
+
+Docker als Entwicklungsumgebung am Mac
+- https://github.com/rofthedeep/docker-als-entwicklungsumgebung-am-mac
