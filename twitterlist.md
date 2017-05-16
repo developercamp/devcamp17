@@ -5,4 +5,5 @@
 * https://twitter.com/mayflowerphp (Mayflower)
 * https://twitter.com/robsblog (Robert Lippert)
 * https://twitter.com/divb (Tom Wiesseckel)
+* https://twitter.com/fragmichdochnet (Michael Ehrlein)
 * https://twitter.com/ZahoOnIT (Richard Baumann)
