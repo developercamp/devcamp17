@@ -10,3 +10,5 @@
 * https://twitter.com/IIMOG (Markus Ankenbrand)
 * https://twitter.com/upsettweety (Stefan Moises)
 * https://twitter.com/mattsches (Matthias Gutjahr)
+* https://twitter.com/rofthedeep (Tim Binder)
+* https://twitter.com/upsettweety (Stefan Moises)
