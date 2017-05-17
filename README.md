@@ -21,7 +21,7 @@ Thank you very much. For more information please visit https://developercamp.io
 ### Mittwoch. 
 
 |Mi|12:00|14:00|15:00|16:15|17:15|18:15|
-|--:|-----:|-----:|------|------:|-----:|-----:|
+|:--|:-----|:-----|:------|:------|:-----|:-----|
 |Session 1 |WebAssembly Zero-Latency Backends in your Browser|Gui-Testing(in einer agilen Umgebung)|Hilfe, mein PO …|Functional JS (with RamdaJS) |TypeScript & HTML5|| 
 |Session 2 |Rapid Prototyping / Development mit Laravel|Einführung in ELM|Bessere Tests und besseren Code durch Mutation Testing|How to build and the test your own linux|Ansible & Vagrant | Container-Orchestrierung und -Management mit Docker und. Rancher
 |Session 3 |Apache Spark  + Mlib|Produktkonfigurator|PDF-Tools unter PHP|Nachvollziehbare, Datengetriebene, automatisierte Anaslysen der Softwareentwicklung|Docker-Entwicklungsumgebung auf dem Mac|REST-API mit AWS
@@ -32,7 +32,7 @@ Thank you very much. For more information please visit https://developercamp.io
 ### Donnerstag 
 
 |Do|09:00|10:00|11:00|12:00|14:00|15:00|16:00|
-|--:|-----:|-----:|------|------:|-----:|-----:|-----:|
+|:--|:-----|:-----|:------|:------|:-----|:-----|:----|
 |Session 1 |Automating library releases and dependency management in JavaScript (Beginner) [@coderbyheart](https://twitter.com/coderbyheart)|Monolith first – hin zu Microservices|Java & Angular – WebApps / Microservices mit Spring|5 Years CTO'ing (Beginner) [@coderbyheart](https://twitter.com/coderbyheart)|Von Berufschule-Entwicklung zu prof. Entwicklung|Hypethema Microservices – Diskussion, Aufbau, Cloud ACL, richtige Herangehensweise||
 |Session 2 |Zeig mir ABAP|DevOps in großen Unternehmen – Configuration Management und Co. trotz Enterprise|Fighting Fear-driven Development|Architektur und Code im Einklang – Architekturdokumentation automatisiert validieren||Concurrency Generators Webworker – JavaScript|Selbsthilfegruppe Bugfixing?! Was man mit den Tierchen so machen kann|
 |Session 3 |Ionic 2|Der Baum #PHPCR|NixOS & OSX – Declarative Package & Configuration Management for Developer's Machine|Rewactive JavaScript RxJS|||
