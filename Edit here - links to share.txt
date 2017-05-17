@@ -13,4 +13,4 @@ WebAssembly
 - https://github.com/periklis/wasm-imageeditor
 
 STRESS!
-- Die Bilder zur Session gibt’s hier:
+- Die Bilder zur Session gibt’s hier: https://github.com/developercamp/devcamp17/tree/master/Stress
