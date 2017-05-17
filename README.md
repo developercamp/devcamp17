@@ -27,7 +27,7 @@ Thank you very much. For more information please visit https://developercamp.io
 |Session 3 |Apache Spark  + Mlib|Produktkonfigurator|PDF-Tools unter PHP|Nachvollziehbare, Datengetriebene, automatisierte Anaslysen der Softwareentwicklung|Docker-Entwicklungsumgebung auf dem Mac|REST-API mit AWS
 |Gruppenraum 1 |STRESS – erkennen und bekämpfen|Angular von 0 auf 100|Realtime-Datenabfragen an der Grenze zu Big Data|Monitoring-Talk|Selbsthilfegruppen für Usergroup-Organisatoren|Spiel und Spaß mit @talkaboutdev
 |Roter Salon |Kaffeemaschine pimpen|ReactNative für Einsteiger|Retrospektive|Leadership in der IT||Mit Alexa spielen
-|Galerie |Building a dockerized Application from Scratch|Real Nerds do it in Hardware|TDD vs. Velocity: Testing for start-ups and other organizations with fast innovation cycles (Medium-Expert) [@coderbyheart](https://twitter.com/coderbyheart)||Management-Brainfucks – Warum Manager und Agil oft schmerzen|Spiel und Spaß mit @talkaboutdev
+|Galerie |Building a dockerized Application from Scratch|Real Nerds do it in Hardware|TDD vs. Velocity: Testing for start-ups and other organizations with fast innovation cycles ([Slides](https://goo.gl/0EUz40)) [@coderbyheart](https://twitter.com/coderbyheart)||Management-Brainfucks – Warum Manager und Agil oft schmerzen|Spiel und Spaß mit @talkaboutdev
 
 ### Donnerstag 
 
