@@ -18,7 +18,8 @@ Thank you very much. For more information please visit https://developercamp.io
 
 # Developer Camp 2017
 ## Sessions
-###Mittwoch
+### Mittwoch. 
+
 |Mi|12:00|14:00|15:00|16:15|17:15|18:15|
 |--:|-----:|-----:|------|------:|-----:|-----:|
 |Session 1 |WebAssembly Zero-Latency Backends in your Browser|Gui-Testing(in einer agilen Umgebung)|Hilfe, mein PO …|Functional JS (with RamdaJS) |TypeScript & HTML5|| 
