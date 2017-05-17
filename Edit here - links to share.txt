@@ -14,3 +14,9 @@ WebAssembly
 
 STRESS!
 - Die Bilder zur Session gibt’s hier: https://github.com/developercamp/devcamp17/tree/master/Stress
+
+Einführung in Elm
+- https://stesie.github.io/elm-talk/
+
+Hallo Alexa
+- https://stesie.github.io/alexa-talk/
