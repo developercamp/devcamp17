@@ -11,3 +11,6 @@ Docker als Entwicklungsumgebung am Mac
 
 WebAssembly
 - https://github.com/periklis/wasm-imageeditor
+
+STRESS!
+- Die Bilder zur Session gibt’s hier:
