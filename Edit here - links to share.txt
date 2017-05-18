@@ -20,3 +20,6 @@ Einführung in Elm
 
 Hallo Alexa
 - https://stesie.github.io/alexa-talk/
+
+Ansible Vagrant Workshop
+- https://github.com/phryneas/ansible-vagrant-workshop
