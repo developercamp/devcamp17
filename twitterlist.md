@@ -12,3 +12,4 @@
 * https://twitter.com/mattsches (Matthias Gutjahr)
 * https://twitter.com/rofthedeep (Tim Binder)
 * https://twitter.com/stesie23 (Rolf aka Stefan Siegl)
+* https://twitter.com/bruckmayer (Christian Bruckmayer)
