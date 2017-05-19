@@ -29,3 +29,6 @@ React Native Intro
 
 How to build and test you own Linux Distribution
 - https://fosdem.org/2017/schedule/event/continuous_integration_with_obs/
+
+Selbsthilfegruppe Bugfixing?! - Was man mit den kleinen Tierchen alles anstellen kann
+- https://github.com/developercamp/devcamp17/blob/master/Selbsthilfegruppe%20Bugfixing%20-%202017-05-18%20-%201600.jpg
