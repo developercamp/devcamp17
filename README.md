@@ -38,4 +38,4 @@ Thank you very much. For more information please visit https://developercamp.io
 |Session 3 |Ionic 2|Der Baum #PHPCR|NixOS & OSX – Declarative Package & Configuration Management for Developer's Machine|Rewactive JavaScript RxJS|||
 |Gruppenraum 1 |Zufällig Unternehmer|PhpStorm / WebStorm optimieren|Agenturleben vs. Eigenentwicklung|Example Mapping by Example|Komplexe REST-APIs, Best-Practice, Diskussionsrunde|Doctrine-2-Crashkurs|Selbsthilfegruppe Bugfixing? Was man mit den Tierchen so machen kann|
 |Roter Salon |Akzeptanztest mit Codeception für Online-Shops|Wie viele Stakholder will ein Dev?|Was is Topic Modelling? NLP-Live-Session|Laserfernerkennung|HomeLab-Diskussion|Distributed Teams - Best practices @coderbyheart @bruckmayer|
-|Galerie ||||Refactoring Coding Dojo (Tennis-Kata, OS)|XTT – Located Team Tools|Minimal Releasable Crap
+|Galerie ||||Refactoring Coding Dojo (Tennis-Kata, OS)|XTT – Located Team Tools|Minimal Releasable Crap|Bug Handling im Mehr-Team Umfeld
