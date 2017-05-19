@@ -26,3 +26,6 @@ Ansible Vagrant Workshop
 
 React Native Intro
 - https://github.com/iimog/react-native-intro-devcamp17
+
+How to build and test you own Linux Distribution
+- https://fosdem.org/2017/schedule/event/continuous_integration_with_obs/
