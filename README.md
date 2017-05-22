@@ -12,6 +12,10 @@ Link</pre>
 
 For those of you who would like to keep up with things on Twitter, there is a handy list for your: <a href="https://github.com/developercamp/devcamp17/blob/master/twitterlist.md">twitterlist.md</a>. Feel free to add your twitter handle as well.
 
+## Feedback! 
+
+We would like to see your feedback! So [use the Feedback section](https://github.com/developercamp/devcamp17/blob/master/feedback.md) and share your Blog posts, articles, photos, tweets, …  
+
 # More Information
 
 Thank you very much. For more information please visit https://developercamp.io
