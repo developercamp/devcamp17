@@ -32,3 +32,16 @@ How to build and test you own Linux Distribution
 
 Selbsthilfegruppe Bugfixing?! - Was man mit den kleinen Tierchen alles anstellen kann
 - https://github.com/developercamp/devcamp17/blob/master/Selbsthilfegruppe%20Bugfixing%20-%202017-05-18%20-%201600.jpg
+
+Tests und Code verbessern durch Mutation Testing
+- Code: https://github.com/thbrunzendorf/mutation-testing-sample
+- Slides: https://github.com/thbrunzendorf/mutation-testing-sample/blob/master/doc/Tests%20und%20Code%20verbessern%20mit%20Mutation%20Testing.pdf
+
+Fighting Fear Driven Development
+- Original blog post by Scott Hanselman: https://www.hanselman.com/blog/FearDrivenDevelopmentFDD.aspx
+- Captured session results: https://twitter.com/thbrunzendorf/status/865166836870115328
+- "Supporting material": https://hackernoon.com/40-ways-to-invest-in-more-resilient-teams-c2ac7d008591, https://www.infoq.com/podcasts/adam-tornhill, https://www.industriallogic.com/blog/cycles-of-mistrust/
+
+Example Mapping - by Example
+- Introduction by Matt Wynne :https://cucumber.io/blog/2015/12/08/example-mapping-introduction
+- Captured session results: https://twitter.com/thbrunzendorf/status/865167415906369537
