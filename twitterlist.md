@@ -15,3 +15,4 @@
 * https://twitter.com/bruckmayer (Christian Bruckmayer)
 * https://twitter.com/feststelltaste (Markus Harrer)
 * https://twitter.com/MichelHartmann (Michel Hartmann)
+* https://twitter.com/thbrunzendorf (Thorsten Brunzendorf)
