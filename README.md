@@ -1,3 +1,6 @@
+# First things first
+It's #devcamp18 time! [Take a look at the repository](https://github.com/developercamp/devcamp18) and share your thoughts, Twitter handles, pictures, …
+
 # About this Repository
 
 If you would like to share your notes, repositories, sketches, photos, ... you made during Developer Camp
